@@ -4,12 +4,18 @@
   font-size: 24px;
   align-items: stretch;
   padding: 70px 45px;
+  gap: 20px;
 }
 .enjoy {
   border: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
 }
 .enjoy_text {
   font-style: normal;
+  width: 400px;
 }
 .enjoy_img {
   float: right;
