@@ -1,0 +1,55 @@
+.story_cards {
+  display: flex;
+  flex-flow: column;
+  font-size: 24px;
+  align-items: stretch;
+  padding: 70px 45px;
+}
+.enjoy {
+  border: 2px solid black;
+}
+.enjoy_text {
+  font-style: normal;
+}
+.enjoy_img {
+  float: right;
+  padding: 10px 0 20px 20px;
+  width: 400px;
+  height: 200px;
+}
+.dowload {
+  border: 2px solid black;
+}
+.download_text {
+  font-style: normal;
+}
+.download_img {
+  float: left;
+  padding: 10px 20px 20px 0;
+  width: 400px;
+  height: 200px;
+}
+.watch {
+  border: 2px solid black;
+}
+.watch_text {
+  font-style: normal;
+}
+.watch_img {
+  float: right;
+  padding: 10px 0 20px 20px;
+  width: 400px;
+  height: 200px;
+}
+.create {
+  border: 2px solid black;
+}
+.create_text {
+  font-style: normal;
+}
+.create_img {
+  float: left;
+  padding: 10px 20px 20px 0;
+  width: 400px;
+  height: 200px;
+}
